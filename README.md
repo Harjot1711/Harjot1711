@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="HarjotThandi.jpg" alt="Harjot Thandi" width="100%" />
 
 # 💫 About Me:
 🧠 I’m currently working on<br>A Cyber Threat Intelligence Dashboard and multiple AI + UI/UX projects that integrate cloud, security, and front-end design.<br><br>🤝 I’m looking to collaborate on<br>Hackathons, AI/ML projects, or innovative startups in cybersecurity, automation, or community impact.<br><br>✋ I’m looking for help with<br>Advanced Azure DevSecOps practices, AI model deployment, and integrating design systems in React/Next.js.<br><br>🌱 I’m currently learning<br>Cloud security, offensive security (Kali Purple), and real-time data visualization with D3.js and Python APIs.<br><br>💬 Ask me about<br>System security automation, student government leadership, UI/UX optimization, or launching student-led tech communities.<br><br>⚡ Fun fact<br>I co-founded an AI club, led a startup, and placed top 3 in multiple government hackathons.

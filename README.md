@@ -12,7 +12,6 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://ca.linkedin.com/in/harjotthandi/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harjot.thandi.03@gmail.com) 
 
-# 💻 Tech Stack:
 ## 📚 Tech Stack
 
 ### 🖥️ Languages & Runtimes
